@@ -94,7 +94,7 @@ public class stepDefinition extends BaseClass {
 
         if(webDriver!=null) {
             webDriver.quit();
-            System.out.println("Driver is quit..!!");
+            System.out.println("Webdriver is quit..!!");
         }
     }
 
